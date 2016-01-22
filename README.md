@@ -5,7 +5,7 @@
 I made several attempts at this challenge as I found it was very easy to add small features which very quickly got very out of control. The brief states that this is a one-player game, so I took the view that there did not need to be any notion of players or any real reason to score the game after each bowl, since there is no concept of "winning." The game is played out and the score can be calculated when the game is finished.
 
 
-### Testing
+### Testing
 
 This bowling challenge was built using TDD. The testing framework used is Jasmine which is included in the repo. To run the tests in the browser, navigate to the root directory and open ```SpecRunner.html``` in your browser.
 
